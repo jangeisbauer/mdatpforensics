@@ -1,0 +1,1 @@
+&PowerShell.exe -file "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Downloads\get-MdatpForensics.ps1"
